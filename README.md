@@ -6,7 +6,9 @@
 
 
 ## Other
-[Go mod sample](https://mp.weixin.qq.com/s/TvTlz3uKIBqgg1FjlAItPQ)
+- [How to write Go code](https://golang.org/doc/code.html)
+
+- [Go mod sample](https://mp.weixin.qq.com/s/TvTlz3uKIBqgg1FjlAItPQ)
 
     go mod init 创建了一个新的模块，初始化 go.mod 文件并且生成相应的描述
     go build, go test 和其它构建代码包的命令，会在需要的时候在 go.mod 文件中添加新的依赖项
