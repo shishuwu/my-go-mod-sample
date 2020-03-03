@@ -1,7 +1,7 @@
 # Go mod sample
 
 ## Command line
-    go mod init github/shishuwu/my-go-mod-sample
+    go mod init github.com/shishuwu/my-go-mod-sample
 
 
 
